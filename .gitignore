@@ -1,0 +1,4 @@
+*.mp4
+movie/*
+movie/*.*
+!nnBrook.mp4
