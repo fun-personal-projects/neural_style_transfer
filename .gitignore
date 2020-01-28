@@ -2,3 +2,4 @@
 movie/*
 movie/*.*
 !nnBrook.mp4
+*.jpg
